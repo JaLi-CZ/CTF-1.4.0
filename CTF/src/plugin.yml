@@ -1,0 +1,8 @@
+main: org.jalicz.CTF.Main
+name: CTF
+version: 1.4.0
+
+commands:
+  CTF:
+    usage: /ctf
+    description: Special command for CTF minigame.
